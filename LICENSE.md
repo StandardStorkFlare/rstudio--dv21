@@ -1,4 +1,4 @@
-# 
+# custom RStudio for PC | RStudio for Windows Script | notebook-interface + custom-scripts is the best RStudio for PC | RStudio for Windows script, featuring notebook-interface and
 
 
 
